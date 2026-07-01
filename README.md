@@ -36,7 +36,3 @@ Computer Science student at NC State (expected graduation: May 2027), building t
 
 - 📧 srivathsamv2@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/srivathsa-mantrala/) <!-- add your LinkedIn URL here -->
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srivathsamv&show_icons=true&theme=dark&hide_border=true" alt="Srivathsa's GitHub Stats"/>
-</p>
