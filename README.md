@@ -30,8 +30,6 @@ Computer Science student at NC State (expected graduation: May 2027), building t
 
 **Concepts:** AI Agents · Data pipelines · Machine Learning (PCA, K-Means, t-SNE) · Monte Carlo Simulation · OOP · RESTful API Design · Data Security
 
-**Practices:** Layered architecture · Constructor injection · Clean entity/DTO separation
-
 ### 📫 Reach me
 
 - 📧 srivathsamv2@gmail.com
